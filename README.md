@@ -1,7 +1,7 @@
 ### Hi 👋 mình là Minh 👩‍💻
 
 <!--
---> minhbro3003/minhbro3003 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+--> minhbro3003 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
  Here are some ideas to get you started:
 
